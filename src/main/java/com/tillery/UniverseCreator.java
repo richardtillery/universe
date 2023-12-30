@@ -1,6 +1,6 @@
-package com.tillery;
+package com.world;
 
-import com.tillery.record.Universe;
+import com.world.record.Universe;
 
 public class UniverseCreator {
 

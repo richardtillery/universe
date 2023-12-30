@@ -1,5 +1,5 @@
 module world {
-    exports com.tillery.world; //export package
+    exports com.world.record; //export package
     // can't export a package that isn't real
     //exports com.tillery.notreal;
 }

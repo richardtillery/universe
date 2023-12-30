@@ -1,13 +1,13 @@
-package com.tillery;
+package com.star;
 
-import com.tillery.record.Star;
+import com.star.record.Star;
 
 import java.math.BigDecimal;
 
 public class StarLauncher {
 
     public static void main(String... args) {
-        new StarLauncher().announceNewStar();;
+        new StarLauncher().announceNewStar();
     }
 
     private void announceNewStar() {

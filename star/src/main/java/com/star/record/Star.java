@@ -1,4 +1,4 @@
-package com.tillery.record;
+package com.star.record;
 
 import java.math.BigDecimal;
 

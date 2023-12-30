@@ -1,4 +1,4 @@
-package com.tillery;
+package com.star;
 
 public class Main {
     public static void main(String[] args) {

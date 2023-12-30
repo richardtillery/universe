@@ -1,4 +1,4 @@
-package com.tillery.record;
+package com.world.record;
 
 public record Universe(String name, Long size) {
 
